@@ -1,6 +1,6 @@
-### Welcome!
+### Welcome[!](https://vitalii.sliusar.com/github.png)
 
-![image title](https://sliusar.com/github.png)
+
 
 <!--
 **sliusar/sliusar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
