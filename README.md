@@ -1,4 +1,6 @@
-### Welcome! ![](https://vitalii.sliusar.com/github.png)
+![](https://vitalii.sliusar.com/github.png)
+
+### Welcome!
 
 This is my personal GitHub page, all projects are for fun.
 
