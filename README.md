@@ -1,6 +1,6 @@
-### Welcome![](https://vitalii.sliusar.com/github.png)
+### Welcome! [](https://vitalii.sliusar.com/github.png)
 
-
+This is my personal GitHub page, all projects are for fun.
 
 <!--
 **sliusar/sliusar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
